@@ -15,7 +15,7 @@ limpo, escalável e eficiente.
 &nbsp;&nbsp;•&nbsp;&nbsp;
 🇧🇷 Brasil
 &nbsp;&nbsp;•&nbsp;&nbsp;
-💼 <a href="https://www.linkedin.com/in/brunofeolarossetti">LinkedIn</a>
+💼 <a href="https://www.linkedin.com/in/bruno-feola-rossetti-0b9979428">LinkedIn</a>
 </p>
 
 <p>
@@ -32,6 +32,7 @@ limpo, escalável e eficiente.
 
 <table>
 <tr>
+
 <td align="center" width="90">
 <img src="https://skillicons.dev/icons?i=html" width="45"><br>
 <sub>HTML</sub>
@@ -66,9 +67,11 @@ limpo, escalável e eficiente.
 <img src="https://skillicons.dev/icons?i=docker" width="45"><br>
 <sub>Docker</sub>
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center">
 <img src="https://skillicons.dev/icons?i=git" width="45"><br>
 <sub>Git</sub>
@@ -99,10 +102,6 @@ limpo, escalável e eficiente.
 <sub>Affinity</sub>
 </td>
 
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="45"><br>
-<sub>GitHub</sub>
-</td>
 </tr>
 </table>
 
@@ -157,17 +156,19 @@ limpo, escalável e eficiente.
 
 <td width="33%" valign="top">
 
-### 💻 Projeto 01
+### 💻 Portfólio
 
-Aplicação web completa desenvolvida para solucionar problemas reais através de uma interface moderna e intuitiva.
+Meu portfólio pessoal desenvolvido para apresentar minha trajetória, habilidades, tecnologias e projetos.
+
+Uma interface moderna e responsiva, construída com foco em **design, experiência do usuário e animações**.
 
 **Tecnologias**
 
-`React` `Node.js` `PostgreSQL`
+`HTML` `CSS` `JavaScript` `jQuery`
 
 <br>
 
-⭐ **120**    🔀 **45**
+⭐ **Projeto pessoal**
 
 </td>
 
@@ -175,15 +176,15 @@ Aplicação web completa desenvolvida para solucionar problemas reais através d
 
 ### ⚙️ Projeto 02
 
-API RESTful desenvolvida com arquitetura organizada, autenticação e integração com banco de dados.
+Em breve...
+
+<br><br>
+
+Projeto em desenvolvimento.
 
 **Tecnologias**
 
-`Node.js` `PostgreSQL` `Docker`
-
-<br>
-
-⭐ **98**    🔀 **32**
+`Em breve`
 
 </td>
 
@@ -191,15 +192,15 @@ API RESTful desenvolvida com arquitetura organizada, autenticação e integraç�
 
 ### 🚀 Projeto 03
 
-Dashboard interativo desenvolvido para visualização de dados e acompanhamento de informações em tempo real.
+Em breve...
+
+<br><br>
+
+Novo projeto sendo desenvolvido.
 
 **Tecnologias**
 
-`React` `JavaScript` `Chart.js`
-
-<br>
-
-⭐ **76**    🔀 **21**
+`Em breve`
 
 </td>
 
@@ -250,7 +251,7 @@ Dashboard interativo desenvolvido para visualização de dados e acompanhamento 
 
 **LinkedIn**
 
-[brunofeolarossetti](https://www.linkedin.com/in/brunofeolarossetti)
+[bruno-feola-rossetti](https://www.linkedin.com/in/bruno-feola-rossetti-0b9979428)
 
 </td>
 
