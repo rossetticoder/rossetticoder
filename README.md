@@ -5,7 +5,7 @@
 ### 💻 Desenvolvedor Full Stack
 
 <p>
-Apaixonado por tecnologia e desenvolvimento de software.<br>
+Apaixonado por tecnologia e desenvolvimento.<br>
 Gosto de transformar ideias em soluções reais, escrevendo código<br>
 limpo, escalável e eficiente.
 </p>
@@ -232,7 +232,7 @@ Projeto futuro voltado para desenvolvimento web e criação de soluções digita
 
 <br><br>
 
-`React`   `Node.js`   `PostgreSQL`   `Docker`   `UI/UX`
+`React`   `Node.js`   `PostgreSQL`   `Docker`   
 
 </div>
 
