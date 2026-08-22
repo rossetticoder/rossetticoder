@@ -213,7 +213,7 @@ Novo projeto sendo desenvolvido.
 
 <div align="center">
 
-`React`   `Node.js`   `PostgreSQL`   `Docker`   `UI/UX`
+   `Node.js`   `PostgreSQL`   `Docker`  
 
 </div>
 
